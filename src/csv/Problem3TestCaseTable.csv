@@ -1,0 +1,15 @@
+1,TRUE,5000.10,200.00,DeployChute,9-10-11-12-13-21,
+2,FALSE,5000.10,200.00,None,20-Sep,
+3,TRUE,2500.00,100.10,ReleaseChute,9-10-15-16-17-18-21,
+4,TRUE,5000.10,500.00,Descend,9-10-11-21,
+5,TRUE,2499.90,100.10,Descend,9-10-15-21,
+6,TRUE,5000.10,199.90,Descend,9-10-11-12-21,
+7,TRUE,2500.00,200.00,Descend,9-10-15-16-21,
+8,TRUE,2500.00,100.00,Descend,9-10-15-16-17-21,
+9,TRUE,5000.00,200.00,Descend,-,stmts 10-13 FTT
+10,TRUE,5000.10,499.90,DeployChute,-,other BV stmts 11-13 TTT
+11,TRUE,2500.00,199.90,ReleaseChute,-,other BV stmts 15-18 TTT
+12,TRUE,20000.00,200.00,DeployChute,-,extreme range alt
+13,TRUE,0.00,200.00,Descend,-,extreme range alt
+14,TRUE,5000.10,1500.00,Descend,-,extreme range speed
+15,TRUE,5000.10,0.00,Descend,-,extreme range speed
